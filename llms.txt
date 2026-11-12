@@ -1,0 +1,15 @@
+# Bilhospitalet AS
+
+- Bransje: Reparasjon og vedlikehold av motorvogner
+- Sted: Ski
+- E-post: post@bilhospitalet.no
+- Telefon: 411 41 654
+
+## Tjenester
+
+- Bilpleie og shining: Vask, rens og shining innvendig og utvendig, fra en enkel vask til en grundig oppfriskning av hele bilen.
+- Perma-Shine lakkforsegling: En lakkforsegling som motvirker oksidering og aldring, og gjør lakken mer motstandsdyktig mot det en billakk vanligvis utsettes for.
+
+## Om nettsiden
+
+Laget av Nettsideferdig (https://nettsideferdig.no/).

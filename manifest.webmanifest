@@ -1,0 +1,25 @@
+{
+  "name": "Bilhospitalet AS",
+  "short_name": "Bilhospitale",
+  "description": "Bilhospitalet i Ski tar bilpleie innvendig og utvendig, fra vask til full shine og Perma-Shine lakkforsegling. For privatbiler og bedrifter.",
+  "lang": "nb",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#c8102e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
